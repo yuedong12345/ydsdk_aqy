@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'YDAdModule_aqy'
-  spec.version      = '2.0.4.1'
+  spec.version      = '2.0.4.2'
   spec.license      = { :type => 'MIT' }
   spec.homepage     = 'https://github.com/yuedong12345/ydsdk_aqy.git'
   spec.authors      = { 'yuedong12345' => 'yuedong12345@126.com' }
@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   
   spec.dependency 'KSAdSDK', '3.3.69.3'
   spec.dependency 'BaiduMobAdSDK', '5.14'
-  spec.dependency 'GDTMobSDK', '4.15.02'
+  spec.dependency 'GDTMobSDK', '4.15.10'
   spec.user_target_xcconfig = {
      'GENERATE_INFOPLIST_FILE' => 'YES'
   }
