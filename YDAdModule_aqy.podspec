@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'YDAdModule_aqy'
-  spec.version      = '2.0.4.2'
+  spec.version      = '2.0.6'
   spec.license      = { :type => 'MIT' }
   spec.homepage     = 'https://github.com/yuedong12345/ydsdk_aqy.git'
   spec.authors      = { 'yuedong12345' => 'yuedong12345@126.com' }

@@ -42,7 +42,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rnFzEkBG3kVVSHds943mX6mbc74=
+		UWcUTFOygPr8gEzVrHIiKLG3nFA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -53,10 +53,6 @@
 	<dict>
 		<key>Headers/YDAdManager.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8RXVlYblxxDVlIpIs+8uY5YHwHI=
-			</data>
 			<key>hash2</key>
 			<data>
 			tmk24DpTFJFl7wBrmF2s6XgQ6GN1EagIz7NBbM/h5qY=
@@ -64,10 +60,6 @@
 		</dict>
 		<key>Headers/YDAdModule-umbrella.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6iBXIDSt/2luZe97iHvD8sMODHU=
-			</data>
 			<key>hash2</key>
 			<data>
 			sYw0maLqjF6Rp4zLUNwScwPZz4EDI/X3Zxq0u4qpXAk=
@@ -75,10 +67,6 @@
 		</dict>
 		<key>Headers/YDBannerView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cvQQt8/vqqoZRHOhikY70zDwRN8=
-			</data>
 			<key>hash2</key>
 			<data>
 			Yc22a7TvIQu0291eDBYRjlwO8XHgBj+Cgg01SXjxk2g=
@@ -86,10 +74,6 @@
 		</dict>
 		<key>Headers/YDInterstitialAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oA48MLNBEfkOtKyH/WOa96peeJM=
-			</data>
 			<key>hash2</key>
 			<data>
 			KggjW0XiSm1cpQUQb0jkJSme97M867Y4+dusTak477c=
@@ -97,10 +81,6 @@
 		</dict>
 		<key>Headers/YDNativeExpressAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			L3ftEBt3vx2A/e/NQnyvbPEaOWM=
-			</data>
 			<key>hash2</key>
 			<data>
 			eEYO/Zfevhd30ytCoBUMlaP5QqkcfFvd6Jy4FVZuViA=
@@ -108,10 +88,6 @@
 		</dict>
 		<key>Headers/YDNativeExpressView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fwogMm2qeweY5XK0f99ftWigd4Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			sgv5GJTQ4QnvC+OjUrJTjLcWeCrshDa/FnV0fMQPrKo=
@@ -119,10 +95,6 @@
 		</dict>
 		<key>Headers/YDRewardVideoAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BimgQM3cvB4LPSyJcGNv6t/SMv8=
-			</data>
 			<key>hash2</key>
 			<data>
 			UTU4b+CmQm7rhVdDpcSflpM4l0drMm056F22g5JkMaQ=
@@ -130,10 +102,6 @@
 		</dict>
 		<key>Headers/YDSDKDefines.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OZoJon7J37CPV08xfJ3dyYi94WY=
-			</data>
 			<key>hash2</key>
 			<data>
 			vfyKaKp9TN3GalT6Lnxt9YcSd4iacXIgVkp78hqf20Q=
@@ -141,10 +109,6 @@
 		</dict>
 		<key>Headers/YDSplashAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			enhTqshnGeOejOGLxayqJXXw8k8=
-			</data>
 			<key>hash2</key>
 			<data>
 			vcAYXHiEmU6c5ryeqIph2sgbcmiAY1KuGmS5aJGwtLU=
@@ -152,10 +116,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cHrW8Dxp7wsbiJ239EPq/JWD3Rk=
-			</data>
 			<key>hash2</key>
 			<data>
 			1QoGHQ6CgL/L+JhE87tYRe0D6Ne1srmG07GSll89FCA=
